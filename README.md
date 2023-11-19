@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   - Email: devbymo99@gmail.com
   - LinkedIn: [show-me](https://www.linkedin.com/in/devbymo/)
   - Blog-Site: [show-me](https://devbymo.web.app/index.html#blog)
-  - CV: [show-me]()
+  - CV/Resume: [show-me]()
 - ⚡ Fun fact: I once wrote an entire program using only emojis as variable names and comments. 🚀😄
 
 
