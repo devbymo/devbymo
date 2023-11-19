@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on MindPal
-- 🌱 I'm interested in Backend, DevOps, Machine Learning, AI
+- 🌱 I'm interested in Backend, DevOps, Machine Learning, and AI
 - 👯 I’m looking to collaborate on new, challenging, real-world applications
 - 📫 How to reach me:
   - Email: devbymo99@gmail.com
