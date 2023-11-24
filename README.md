@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me:
   - Email: devbymo99@gmail.com
   - CV: [show-me](https://drive.google.com/file/d/1hXwM_ZHwB4kBhvsSh6EETXSHek9-mF07/view?usp=drive_link)
-    - LinkedIn: [show-me](https://www.linkedin.com/in/devbymo/)
+  - LinkedIn: [show-me](https://www.linkedin.com/in/devbymo/)
   - Blog-Site: [show-me](https://devbymo.web.app/index.html#blog)  
 - ⚡ Fun fact: I once wrote an entire program using only emojis as variable names and comments. 🚀😄
 
