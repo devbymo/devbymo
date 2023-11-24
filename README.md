@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 - 🎯 I'm interested in Backend, DevOps, Machine Learning, and AI
 - 👀 I’m looking to collaborate on new, challenging, real-world applications
 - 📫 How to reach me:
+  - CV: [show-me](https://drive.google.com/file/d/1hXwM_ZHwB4kBhvsSh6EETXSHek9-mF07/view?usp=drive_link)
   - Email: devbymo99@gmail.com
   - LinkedIn: [show-me](https://www.linkedin.com/in/devbymo/)
-  - Blog-Site: [show-me](https://devbymo.web.app/index.html#blog)
-  - CV: [show-me](https://drive.google.com/file/d/1hXwM_ZHwB4kBhvsSh6EETXSHek9-mF07/view?usp=drive_link)
+  - Blog-Site: [show-me](https://devbymo.web.app/index.html#blog)  
 - ⚡ Fun fact: I once wrote an entire program using only emojis as variable names and comments. 🚀😄
 
 
