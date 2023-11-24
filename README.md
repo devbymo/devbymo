@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on MindPal
 - 🎯 I'm interested in Backend, DevOps, Machine Learning, and AI
-- 👀 I’m looking to collaborate on new, challenging, real-world applications
+- 👀 I’m looking to collaborate on new, challenging, and real-world applications
 - 📫 How to reach me:
   - CV: [show-me](https://drive.google.com/file/d/1hXwM_ZHwB4kBhvsSh6EETXSHek9-mF07/view?usp=drive_link)
   - LinkedIn: [show-me](https://www.linkedin.com/in/devbymo/)
