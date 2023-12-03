@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🎯 I'm interested in Backend, DevOps, Machine Learning, and AI
 - 👀 I’m looking to collaborate on new, challenging, and real-world applications
 - 📫 How to reach me:
-  - CV: [show-me](https://black-tomi-39.tiiny.site/)
+  - CV/Resume: [show-me](https://black-tomi-39.tiiny.site/)
   - LinkedIn: [show-me](https://www.linkedin.com/in/devbymo/)
   - Blog-Site: [show-me](https://devbymo.web.app/index.html#blog)
   - Email: devbymo99@gmail.com
